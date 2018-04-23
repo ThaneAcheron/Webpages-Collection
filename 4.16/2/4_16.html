@@ -1,0 +1,24 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+<script> 
+function EnterFunc(item) 
+{
+//document.getElementById(item).style.color = "yellow";
+document.getElementById(item).setAttribute("style", "color:yellow; font-style:italic;");
+}
+function LeaveFunc(item) 
+{
+document.getElementById(item).setAttribute("style", "color:black; font-style:normal;");
+}
+</script> 
+</head> 
+<body> 
+<ol type = "1" > 
+ <li id = "listitem1" onmouseenter = "EnterFunc('listitem1')" onmouseleave = "LeaveFunc('listitem1')"> <b>Item 1</b> </li>
+ <li id = "listitem2" onmouseenter = "EnterFunc('listitem2')" onmouseleave = "LeaveFunc('listitem2')"> <b>Item 2</b> </li>
+ <li id = "listitem3" onmouseenter = "EnterFunc('listitem3')" onmouseleave = "LeaveFunc('listitem3')"> <b>Item 3</b> </li>
+ <li id = "listitem4" onmouseenter = "EnterFunc('listitem4')" onmouseleave = "LeaveFunc('listitem4')"> <b>Item 4</b> </li>
+</ol> 
+</body> 
+</html>                           

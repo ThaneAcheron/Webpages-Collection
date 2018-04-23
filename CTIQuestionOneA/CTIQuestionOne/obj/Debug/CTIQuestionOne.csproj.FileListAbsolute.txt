@@ -1,0 +1,11 @@
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\CTI\Exercises PrePracs and Projects\C#\C# Advanced\C#\Exercieses\CTIQuestionOne\CTIQuestionOne\bin\Debug\Features.txt
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\CTI\Exercises PrePracs and Projects\C#\C# Advanced\C#\Exercieses\CTIQuestionOne\CTIQuestionOne\bin\Debug\CTIQuestionOne.exe
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\CTI\Exercises PrePracs and Projects\C#\C# Advanced\C#\Exercieses\CTIQuestionOne\CTIQuestionOne\bin\Debug\CTIQuestionOne.pdb
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\CTI\Exercises PrePracs and Projects\C#\C# Advanced\C#\Exercieses\CTIQuestionOne\CTIQuestionOne\obj\Debug\CTIQuestionOne.csprojResolveAssemblyReference.cache
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\CTI\Exercises PrePracs and Projects\C#\C# Advanced\C#\Exercieses\CTIQuestionOne\CTIQuestionOne\obj\Debug\CTIQuestionOne.Form1.resources
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\CTI\Exercises PrePracs and Projects\C#\C# Advanced\C#\Exercieses\CTIQuestionOne\CTIQuestionOne\obj\Debug\CTIQuestionOne.Properties.Resources.resources
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\CTI\Exercises PrePracs and Projects\C#\C# Advanced\C#\Exercieses\CTIQuestionOne\CTIQuestionOne\obj\Debug\CTIQuestionOne.csproj.GenerateResource.Cache
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\CTI\Exercises PrePracs and Projects\C#\C# Advanced\C#\Exercieses\CTIQuestionOne\CTIQuestionOne\obj\Debug\CTIQuestionOne.exe
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\CTI\Exercises PrePracs and Projects\C#\C# Advanced\C#\Exercieses\CTIQuestionOne\CTIQuestionOne\obj\Debug\CTIQuestionOne.pdb
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\CTI\Exercises PrePracs and Projects\C#\C# Advanced\C#\Exercieses\CTIQuestionOneA\CTIQuestionOne\obj\Debug\CTIQuestionOne.exe
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\CTI\Exercises PrePracs and Projects\C#\C# Advanced\C#\Exercieses\CTIQuestionOneA\CTIQuestionOne\obj\Debug\CTIQuestionOne.pdb

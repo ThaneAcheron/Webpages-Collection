@@ -1,0 +1,14 @@
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\CTI\Exercises PrePracs and Projects\C#\C# Advanced\C#\Exercieses\CTIQuestionOneB\CTIQuestionOneB\CTIQuestionOneB\bin\Debug\AirCon.png
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\CTI\Exercises PrePracs and Projects\C#\C# Advanced\C#\Exercieses\CTIQuestionOneB\CTIQuestionOneB\CTIQuestionOneB\bin\Debug\PowerSteering.png
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\CTI\Exercises PrePracs and Projects\C#\C# Advanced\C#\Exercieses\CTIQuestionOneB\CTIQuestionOneB\CTIQuestionOneB\bin\Debug\AirCon.txt
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\CTI\Exercises PrePracs and Projects\C#\C# Advanced\C#\Exercieses\CTIQuestionOneB\CTIQuestionOneB\CTIQuestionOneB\bin\Debug\powersteering.txt
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\CTI\Exercises PrePracs and Projects\C#\C# Advanced\C#\Exercieses\CTIQuestionOneB\CTIQuestionOneB\CTIQuestionOneB\bin\Debug\CTIQuestionOneB.exe
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\CTI\Exercises PrePracs and Projects\C#\C# Advanced\C#\Exercieses\CTIQuestionOneB\CTIQuestionOneB\CTIQuestionOneB\bin\Debug\CTIQuestionOneB.pdb
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\CTI\Exercises PrePracs and Projects\C#\C# Advanced\C#\Exercieses\CTIQuestionOneB\CTIQuestionOneB\CTIQuestionOneB\obj\Debug\CTIQuestionOneB.Control.resources
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\CTI\Exercises PrePracs and Projects\C#\C# Advanced\C#\Exercieses\CTIQuestionOneB\CTIQuestionOneB\CTIQuestionOneB\obj\Debug\CTIQuestionOneB.Form1.resources
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\CTI\Exercises PrePracs and Projects\C#\C# Advanced\C#\Exercieses\CTIQuestionOneB\CTIQuestionOneB\CTIQuestionOneB\obj\Debug\CTIQuestionOneB.Properties.Resources.resources
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\CTI\Exercises PrePracs and Projects\C#\C# Advanced\C#\Exercieses\CTIQuestionOneB\CTIQuestionOneB\CTIQuestionOneB\obj\Debug\CTIQuestionOneB.csproj.GenerateResource.Cache
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\CTI\Exercises PrePracs and Projects\C#\C# Advanced\C#\Exercieses\CTIQuestionOneB\CTIQuestionOneB\CTIQuestionOneB\obj\Debug\CTIQuestionOneB.exe
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\CTI\Exercises PrePracs and Projects\C#\C# Advanced\C#\Exercieses\CTIQuestionOneB\CTIQuestionOneB\CTIQuestionOneB\obj\Debug\CTIQuestionOneB.pdb
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\CTI\Exercises PrePracs and Projects\C#\C# Advanced\C#\Exercieses\CTIQuestionOneB\CTIQuestionOneB\obj\Debug\CTIQuestionOneB.exe
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\CTI\Exercises PrePracs and Projects\C#\C# Advanced\C#\Exercieses\CTIQuestionOneB\CTIQuestionOneB\obj\Debug\CTIQuestionOneB.pdb

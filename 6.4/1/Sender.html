@@ -1,0 +1,21 @@
+<!DOCTYPE html> 
+<html> 
+ <head> 
+  <script> 
+   function SendMessage(){ 
+   
+   var iframe = document.getElementById("iframe");   
+   iframe.contentWindow.postMessage("A","Reciever.html"); 
+   
+   }
+  </script>
+ </head> 
+ <body> 
+  <form> 
+    <input type = "text" id = "SenderValTxtb">
+    <input type = "button" value = "Send Message" id = "SendMsgBtn" onclick = "SendMessage()"> 
+	<br/>
+	<iframe id="iframe" src="file:///C:/Users/Thane_Acheron/Desktop/ThaneAcheron/CTI/Exercises%20PrePracs%20and%20Projects/Creating%20Webpages/6.4/1/Reciever.html"></iframe>
+  </form>
+ </body>
+</html>

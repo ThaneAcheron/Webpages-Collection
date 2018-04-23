@@ -1,0 +1,11 @@
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\CTI\Exercises PrePracs and Projects\C#\C# Advanced\C#\Exercieses\PrePracOne\PrePracOne\bin\Debug\items.txt
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\CTI\Exercises PrePracs and Projects\C#\C# Advanced\C#\Exercieses\PrePracOne\PrePracOne\bin\Debug\Access Book Reading And Homework Tracking Database Templates [Access-Templates.Com].accdb
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\CTI\Exercises PrePracs and Projects\C#\C# Advanced\C#\Exercieses\PrePracOne\PrePracOne\bin\Debug\PrePracOne.exe.config
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\CTI\Exercises PrePracs and Projects\C#\C# Advanced\C#\Exercieses\PrePracOne\PrePracOne\bin\Debug\PrePracOne.exe
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\CTI\Exercises PrePracs and Projects\C#\C# Advanced\C#\Exercieses\PrePracOne\PrePracOne\bin\Debug\PrePracOne.pdb
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\CTI\Exercises PrePracs and Projects\C#\C# Advanced\C#\Exercieses\PrePracOne\PrePracOne\obj\Debug\PrePracOne.Form1.resources
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\CTI\Exercises PrePracs and Projects\C#\C# Advanced\C#\Exercieses\PrePracOne\PrePracOne\obj\Debug\PrePracOne.Properties.Resources.resources
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\CTI\Exercises PrePracs and Projects\C#\C# Advanced\C#\Exercieses\PrePracOne\PrePracOne\obj\Debug\PrePracOne.csproj.GenerateResource.Cache
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\CTI\Exercises PrePracs and Projects\C#\C# Advanced\C#\Exercieses\PrePracOne\PrePracOne\obj\Debug\PrePracOne.exe
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\CTI\Exercises PrePracs and Projects\C#\C# Advanced\C#\Exercieses\PrePracOne\PrePracOne\obj\Debug\PrePracOne.pdb
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\CTI\Exercises PrePracs and Projects\C#\C# Advanced\C#\Exercieses\PrePracOne\PrePracOne\obj\Debug\PrePracOne.csprojResolveAssemblyReference.cache

@@ -1,0 +1,36 @@
+<!DOCTYPE html> 
+<html> 
+ <head> 
+     <script> 
+	    function Validate(){
+
+		var emailTxtb = document.getElementById('emailTxtb'); 
+		var passwordTxtb = document.getElementById('passwordTxtb');
+		
+		if(emailTxtb.value == ""){
+		  emailTxtb.setCustomValidity('Please enter your Email address.');
+		 }
+		 else{
+		  emailTxtb.setCustomValidity('');
+		 }
+		 if(passwordTxtb.value == ""){
+		  passwordTxtb.setCustomValidity('Please enter your password.');
+		 }
+		 else{
+		  passwordTxtb.setCustomValidity('');
+		 }
+		}
+	 </script>
+ </head> 
+ <body> 
+   <form method = "get" name = "register">
+    <div style = "text-align:center;"> 
+	  <p> E-mail address: </p><input type = "email" id = "emailTxtb">
+	  <p> Password:       </p><input type = "password" id = "passwordTxtb"> 
+	  <br/> 
+	  <br/>
+	  <input type = "submit" value = "Login" onclick = "Validate()">
+	</div>
+   </form>
+ </body>
+</html>

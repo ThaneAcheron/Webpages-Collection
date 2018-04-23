@@ -1,0 +1,12 @@
+h1 {color:blue;}
+h1 {border:black;}
+h1 {font-style:bold;}
+h1 {font-style:italic;}
+h1 {border-color:black;}
+
+h3 {color:black; font-style:bold;}
+.columnOne{text-align:center}
+.columnTwo{text-align:right}
+
+div {appearance:button;} 
+table {width:50%;}
