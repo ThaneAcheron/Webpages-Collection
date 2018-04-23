@@ -1,7 +1,0 @@
-b
-a
-c
-p
-h
-o
-asdf

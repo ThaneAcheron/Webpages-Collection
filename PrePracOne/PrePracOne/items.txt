@@ -1,4 +1,0 @@
-﻿Cat 
-Dog
-Fish
-Parrot
